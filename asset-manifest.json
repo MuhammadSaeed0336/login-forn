@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-forn/static/css/main.5d24d77e.css",
+    "main.js": "/login-forn/static/js/main.c2917a5b.js",
+    "index.html": "/login-forn/index.html",
+    "main.5d24d77e.css.map": "/login-forn/static/css/main.5d24d77e.css.map",
+    "main.c2917a5b.js.map": "/login-forn/static/js/main.c2917a5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d24d77e.css",
+    "static/js/main.c2917a5b.js"
+  ]
+}
